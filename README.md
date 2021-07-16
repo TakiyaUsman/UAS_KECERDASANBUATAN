@@ -1,0 +1,2 @@
+# UAS_RandomForestClassifer
+UAS_Kecerdasanbuatan_181011401344_MuhammadAbyanDaffa
